@@ -30,7 +30,7 @@ It focuses on layout, structure, and interaction flow — without colors or deta
 
 ### 🚀 How to Run
 ```bash
-git clone https://github.com/<your-username>/collaboration-hub-lowfi-prototype.git
+git clone https://github.com/MRehanMehdi/collaboration-hub-lowfi-prototype.git
 cd collaboration-hub-lowfi-prototype
 npm install
 npm run dev
